@@ -4,11 +4,11 @@
   <<< I'm a Computer Science Graduate, and Web Enthusiast >>>
 </p>
 <p align="left">
-* 🔭 I'm currently interning at **bKash Limited**.<br>
-* 🌱 I'm constantly learning and expanding my skills in **React** and **Python**.<br>
+* 🔭 I'm currently interning at bKash Limited.<br>
+* 🌱 I'm constantly learning and expanding my skills in React and Python.<br>
 * 💡 Passionate about leveraging programming and web technologies to create impactful projects.<br>
 * 👯 I'm looking to collaborate with people who want to make innovative projects.<br>
-* ⚡ Fun fact: I enjoy designing and editing with **Adobe Photoshop** and **Figma**!
+* ⚡ Fun fact: I enjoy designing and editing with Adobe Photoshop and Figma!
 </p>
 
 ---
@@ -16,12 +16,12 @@
 <h3 align="center">📬 Connect with Me:</h3>
 <p align="center">
   <a href="mailto:tabiamorshed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  </p>
+  <a href="https://www.linkedin.com/in/tabiamorshed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
 
 ---
 
-<h3 align="center">Languages and Tools: <></h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -30,12 +30,12 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-nbsp; <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="Adobe Premiere Pro" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-nbsp; <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word" />
+  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word" />
   <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
 </p>
@@ -64,38 +64,38 @@ nbsp; <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-t
 
 <h3 align="center">🎓 Education</h3>
 <p align="left">
-* **BSc in Computer Science and Engineering**<br>
+BSc in Computer Science and Engineering<br>
     Ahsanullah University of Science and Technology<br>
-    *(June 2021 - June 2025)*
+    (June 2021 - June 2025)
 
-* **Higher Secondary Certificate (HSC)**<br>
+Higher Secondary Certificate (HSC)<br>
     Dhaka City College<br>
-    *(Passing Year: 2020)*
+    (Passing Year: 2020)
 
-* **Secondary School Certificate (SSC)**<br>
+Secondary School Certificate (SSC)<br>
     Udayan Higher Secondary School and College<br>
-    *(Passing Year: 2018)*
+    (Passing Year: 2018)
 </p>
 
 ---
 
 <h3 align="center">💼 Experience</h3>
 <p align="left">
-* **<img src="https://img.shields.io/badge/bKash-E2136E?style=for-the-badge&logo=bkash&logoColor=white" alt="bKash icon" height="20"/> Intern (Merchant Product and Technology Division)**<br>
+ <img src="https://img.shields.io/badge/bKash-E2136E?style=for-the-badge&logo=bkash&logoColor=white" alt="bKash icon" height="20"/> **Intern (Merchant Product and Technology Division)<br>
     bKash Limited<br>
-    *(May 2025 - Present)*
+    (May 2025 - Present)
 
-* **<img src="https://img.shields.io/badge/GAO%20Tek%20Inc.-005A9C?style=for-the-badge" alt="GAO Tek Inc. icon" height="20"/> Assistant Squad Leader (Intern)**<br>
+ <img src="https://img.shields.io/badge/GAO%20Tek%20Inc.-005A9C?style=for-the-badge" alt="GAO Tek Inc. icon" height="20"/> **Assistant Squad Leader (Intern)**<br>
     GAO Tek Inc.<br>
-    *(November 2024 - February 2025)*
+   (November 2024 - February 2025)
 </p>
 
 ---
 
 <h3 align="center">🏆 Certifications & Achievements</h3>
 <p align="left">
-* **Fundamental IT Engineer (FE) Examination**<br>
-    **Position:** 12th place<br>
+ Fundamental IT Engineer (FE) Examination<br>
+    Position: 12th place<br>
     Conducted by: Bangladesh IT-engineers Examination Center (BD-ITEC), Bangladesh Computer Council
 </p>
 
@@ -103,10 +103,10 @@ nbsp; <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-t
 
 <h3 align="center">💡 Leadership & Activities</h3>
 <p align="left">
-* **General Secretary** @ AUST Research and Publication Club<br>
-    *(January 2024 - June 2025)*
-* **Executive** @ AUST Robotics Club<br>
-    *(May 2022 - August 2023)*
+ General Secretary @ AUST Research and Publication Club<br>
+    (January 2024 - June 2025)
+ Executive @ AUST Robotics Club<br>
+    (May 2022 - August 2023)
 </p>
 
 ---
