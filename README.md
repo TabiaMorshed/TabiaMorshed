@@ -30,27 +30,22 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
+nbsp; <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white" alt="Adobe Premiere Pro" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word" />
+nbsp; <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word" />
   <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  </p>
+</p>
 
 ---
 
-<h3 align="center">📈 My GitHub Stats</h3>
+<h3 align="center">📈 My GitHub Activity</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TabiaMorshed&show_icons=true&theme=radical&include_all_commits=true&count_private=true&line_height=25" alt="TabiaMorshed GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TabiaMorshed&theme=dark&background=0D1117&border=1F2022&title_color=BB86FC&icon_color=C9D1D9&text_color=BB86FC&hide_border=true&ring_color=BB86FC" alt="GitHub Streak" />
-</p>
-
-<h3 align="center">🏆 My GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TabiaMorshed&theme=darkhub&no-background=true&no-frame=true&rank=-C,-B,-A,-S,-SS,-SSS" alt="TabiaMorshed GitHub Trophies" />
 </p>
 
 ---
@@ -124,5 +119,5 @@ A. Because light attracts bugs!
 ---
 
 <p align="center">
-  &copy; 2025 Tabia Morshed. Built with ❤️ for the community.
+  © 2025 Tabia Morshed. Built with ❤️ for the community.
 </p>
