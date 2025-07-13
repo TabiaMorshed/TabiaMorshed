@@ -1,64 +1,84 @@
 # Hi there! I'm Tabia Morshed 👋
 
-[cite_start]A highly motivated Computer Science graduate from Ahsanullah University of Science and Technology, eager to leverage a strong foundation in programming and web technologies, coupled with a proven ability to quickly learn and adapt to new technologies, to contribute effectively to innovative projects and achieve professional growth in a dynamic environment. [cite: 4]
+A passionate Computer Science graduate with a strong foundation in programming and web technologies. I'm eager to contribute to innovative projects and constantly grow in a dynamic environment!
 
 ---
 
 ## 🎓 Education
 
-* [cite_start]**BSc in Computer Science and Engineering** [cite: 5]
-    * [cite_start]Ahsanullah University of Science and Technology [cite: 5]
+* **BSc in Computer Science and Engineering**
+    * Ahsanullah University of Science and Technology
+    * *(June 2021 - June 2025)*
 
-* [cite_start]**Higher Secondary Certificate (HSC)** [cite: 6]
-    * [cite_start]Dhaka City College [cite: 7]
+* **Higher Secondary Certificate (HSC)**
+    * Dhaka City College
+    * *(Passing Year: 2020)*
 
-* [cite_start]**Secondary School Certificate (SSC)** [cite: 9]
-    * [cite_start]Udayan Higher Secondary School and College [cite: 10]
+* **Secondary School Certificate (SSC)**
+    * Udayan Higher Secondary School and College
+    * *(Passing Year: 2018)*
 
 ---
 
 ## 💼 Experience
 
-* [cite_start]**Intern (Merchant Product and Technology Division)** [cite: 11]
-    * [cite_start]bKash Limited [cite: 22]
-    * [cite_start]*May 2025 - Present* [cite: 23]
+* **Intern (Merchant Product and Technology Division) @ bKash Limited**
+    * *(May 2025 - Present)*
 
-* [cite_start]**Assistant Squad Leader (Intern)** [cite: 12]
-    * [cite_start]GAO Tek Inc. [cite: 24]
-    * [cite_start]*November 2024 - February 2025* [cite: 25]
+* **Assistant Squad Leader (Intern) @ GAO Tek Inc.**
+    * *(November 2024 - February 2025)*
 
 ---
 
-## 🌟 Skills & Interests
+## 🌟 Skills & Toolkit
 
-* [cite_start]**Programming Languages:** C, C++, Python, JavaScript [cite: 32]
-* [cite_start]**Web Technologies:** React, HTML, CSS [cite: 33]
-* [cite_start]**Design and Multimedia:** Adobe Photoshop, Adobe Premiere Pro, Photoscape, Illustrator, Canva, Figma [cite: 34]
-* [cite_start]**Office Applications:** MS Word, PowerPoint, Excel [cite: 34]
-* [cite_start]**Other Skills:** Communication, Teamwork, Adaptability, Time Management, Critical Thinking, Leadership [cite: 35]
+Here are some of the technologies and tools I enjoy working with:
+
+| Category               | Skills & Tools                                                                                                    |
+| :--------------------- | :---------------------------------------------------------------------------------------------------------------- |
+| **Programming** | `C` `C++` `Python` `JavaScript`                                                                                   |
+| **Web Technologies** | `React` `HTML` `CSS`                                                                                              |
+| **Design & Multimedia**| `Adobe Photoshop` `Adobe Premiere Pro` `Photoscape` `Illustrator` `Canva` `Figma`                                 |
+| **Office Applications**| `MS Word` `PowerPoint` `Excel`                                                                                    |
+| **Soft Skills** | Communication, Teamwork, Adaptability, Time Management, Critical Thinking, Leadership                               |
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Achievements
 
-* [cite_start]**Fundamental IT Engineer (FE) Examination** [cite: 28]
-    * [cite_start]Position: 12th place [cite: 29]
-    * [cite_start]Conducted by: Bangladesh IT-engineers Examination Center (BD-ITEC), Bangladesh Computer Council [cite: 30]
+* **Fundamental IT Engineer (FE) Examination**
+    * Position: 12th place
+    * Conducted by: Bangladesh IT-engineers Examination Center (BD-ITEC), Bangladesh Computer Council
 
 ---
 
 ## 💡 Leadership & Activities
 
-* [cite_start]**General Secretary** [cite: 16]
-    * [cite_start]AUST Research and Publication Club [cite: 16]
-    * [cite_start]*January 2024 - June 2025* [cite: 26]
+* **General Secretary** @ AUST Research and Publication Club
+    * *(January 2024 - June 2025)*
 
-* [cite_start]**Executive** [cite: 17]
-    * [cite_start]AUST Robotics Club [cite: 17]
-    * [cite_start]*May 2022 - August 2023* [cite: 27]
+* **Executive** @ AUST Robotics Club
+    * *(May 2022 - August 2023)*
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="Your GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+</p>
+
+**Important:** Replace `YOUR_GITHUB_USERNAME` in the URLs above with your actual GitHub username!
 
 ---
 
 ## 📬 Connect with Me
 
-* [cite_start]**Email:** tabiamorshed@gmail.com [cite: 3]
+* **Email:** tabiamorshed@gmail.com
+* **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername) (Don't forget to replace this with your actual LinkedIn URL!)
+
+---
