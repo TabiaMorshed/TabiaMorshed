@@ -8,39 +8,39 @@
 
 ### 🚀 About Me
 
-- [cite_start]🔭 I’m currently interning at **bKash Limited**[cite: 22].
-- [cite_start]🌱 I’m constantly learning and expanding my skills in **React** and **Python**[cite: 32, 33].
-- 💡 Passionate about leveraging programming and web technologies to create impactful projects.
-- 👯 I love collaborating on challenging and innovative ideas.
-- [cite_start]⚡ Fun fact: I enjoy designing and editing with **Adobe Photoshop** and **Figma**[cite: 34]!
+* 🔭 I’m currently interning at **bKash Limited**.
+* 🌱 I’m constantly learning and expanding my skills in **React** and **Python**.
+* 💡 Passionate about leveraging programming and web technologies to create impactful projects.
+* 👯 I love collaborating on challenging and innovative ideas.
+* ⚡ Fun fact: I enjoy designing and editing with **Adobe Photoshop** and **Figma**!
 
 ---
 
 ## 🎓 Education
 
 * **BSc in Computer Science and Engineering**
-    * [cite_start]Ahsanullah University of Science and Technology [cite: 5]
-    * [cite_start]*(June 2021 - June 2025)* [cite: 19]
+    * Ahsanullah University of Science and Technology
+    * *(June 2021 - June 2025)*
 
 * **Higher Secondary Certificate (HSC)**
-    * [cite_start]Dhaka City College [cite: 7]
-    * [cite_start]*(Passing Year: 2020)* [cite: 20]
+    * Dhaka City College
+    * *(Passing Year: 2020)*
 
 * **Secondary School Certificate (SSC)**
-    * [cite_start]Udayan Higher Secondary School and College [cite: 10]
-    * [cite_start]*(Passing Year: 2018)* [cite: 21]
+    * Udayan Higher Secondary School and College
+    * *(Passing Year: 2018)*
 
 ---
 
 ## 💼 Experience
 
-* [cite_start]**<img src="https://img.shields.io/badge/bKash-E2136E?style=for-the-badge&logo=bkash&logoColor=white" alt="bKash icon" height="20"/> Intern (Merchant Product and Technology Division)** [cite: 11]
-    * [cite_start]bKash Limited [cite: 22]
-    * [cite_start]*(May 2025 - Present)* [cite: 23]
+* **<img src="https://img.shields.io/badge/bKash-E2136E?style=for-the-badge&logo=bkash&logoColor=white" alt="bKash icon" height="20"/> Intern (Merchant Product and Technology Division)**
+    * bKash Limited
+    * *(May 2025 - Present)*
 
-* [cite_start]**<img src="https://img.shields.io/badge/GAO%20Tek%20Inc.-005A9C?style=for-the-badge" alt="GAO Tek Inc. icon" height="20"/> Assistant Squad Leader (Intern)** [cite: 12]
-    * [cite_start]GAO Tek Inc. [cite: 24]
-    * [cite_start]*(November 2024 - February 2025)* [cite: 25]
+* **<img src="https://img.shields.io/badge/GAO%20Tek%20Inc.-005A9C?style=for-the-badge" alt="GAO Tek Inc. icon" height="20"/> Assistant Squad Leader (Intern)**
+    * GAO Tek Inc.
+    * *(November 2024 - February 2025)*
 
 ---
 
@@ -75,27 +75,27 @@
 
 ## 🏆 Certifications & Achievements
 
-* [cite_start]**Fundamental IT Engineer (FE) Examination** [cite: 28]
-    * [cite_start]**Position:** 12th place [cite: 29]
-    * [cite_start]Conducted by: Bangladesh IT-engineers Examination Center (BD-ITEC), Bangladesh Computer Council [cite: 30]
+* **Fundamental IT Engineer (FE) Examination**
+    * **Position:** 12th place
+    * Conducted by: Bangladesh IT-engineers Examination Center (BD-ITEC), Bangladesh Computer Council
 
 ---
 
 ## 💡 Leadership & Activities
 
-* [cite_start]**General Secretary** @ AUST Research and Publication Club [cite: 16]
-    * [cite_start]*(January 2024 - June 2025)* [cite: 26]
-* [cite_start]**Executive** @ AUST Robotics Club [cite: 17]
-    * [cite_start]*(May 2022 - August 2023)* [cite: 27]
+* **General Secretary** @ AUST Research and Publication Club
+    * *(January 2024 - June 2025)*
+* **Executive** @ AUST Robotics Club
+    * *(May 2022 - August 2023)*
 
 ---
 
 ## 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25" alt="Your GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TabiaMorshed&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=25" alt="Your GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TabiaMorshed&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TabiaMorshed&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
@@ -104,7 +104,7 @@
 
 <p align="center">
   <a href="mailto:tabiamorshed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/tabiamorshed" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
 
 ---
