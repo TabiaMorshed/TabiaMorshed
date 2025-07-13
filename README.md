@@ -50,15 +50,6 @@
 
 ---
 
-<h3 align="center">📊 Languages Over Time</h3>
-<p align="center">
-  <img src="https://wakatime.com/share/@YOUR_WAKATIME_ID/language-over-time.svg" alt="WakaTime Language Over Time" />
-</p>
-
-<h3 align="center">✨ Most Used Languages</h3>
-<p align="center">
-  <img src="https://wakatime.com/share/@YOUR_WAKATIME_ID/top-languages.svg" alt="WakaTime Top Languages" />
-</p>
 
 ---
 
