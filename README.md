@@ -38,7 +38,7 @@ nbsp; <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-
 nbsp; <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="MS Word" />
   <img src="https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint" />
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-</p>
+  </p>
 
 ---
 
@@ -81,11 +81,11 @@ nbsp; <img src="https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-t
 
 <h3 align="center">💼 Experience</h3>
 <p align="left">
-* **<img src="https://img.shields.io/badge/bKash-E2136E?style=for-the-badge&logo=bkash&logoColor=white" alt="bKash icon" height="20"/> Intern (Merchant Product and Technology Division)**<br>
+* <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fbkash&psig=AOvVaw3J3LDJu4ZEFx86jg3pNQBd&ust=1752479893252000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKC39r2uuY4DFQAAAAAdAAAAABAE" alt="bKash Logo" height="20"/> **Intern (Merchant Product and Technology Division)**<br>
     bKash Limited<br>
     *(May 2025 - Present)*
 
-* **<img src="https://img.shields.io/badge/GAO%20Tek%20Inc.-005A9C?style=for-the-badge" alt="GAO Tek Inc. icon" height="20"/> Assistant Squad Leader (Intern)**<br>
+* <img src="YOUR_GAOTEK_LOGO_URL" alt="GAO Tek Inc. Logo" height="20"/> **Assistant Squad Leader (Intern)**<br>
     GAO Tek Inc.<br>
     *(November 2024 - February 2025)*
 </p>
